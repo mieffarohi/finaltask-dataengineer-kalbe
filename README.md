@@ -31,7 +31,9 @@ Jawab: Operasi tersebut tidak akan dapat berjalan karena kolom 'item_code’ yan
 ---
 # Task 5: Membuat query dari table customer
 Buatlah sebuah Kueri untuk menampilkan semua pesanan pelanggan di mana jumlah pembelian kurang dari 100 atau mengabaikan pesanan-pesanan yang tanggal pesanannya adalah pada atau setelah 25 Agustus 2022, dan ID pelanggan di atas 2001. Tabel contoh yang digunakan adalah 'customer_orders'.
-![image](https://github.com/mieffarohi/finaltask-dataengineer-kalbe/assets/103298951/b72ae818-ea7a-410c-a43a-bc9d1467e590)
+1. Query
+![image](https://github.com/mieffarohi/finaltask-dataengineer-kalbe/assets/103298951/8de7b5e1-55c6-492b-9592-17f2dff23515)
+2. Output
 ![image](https://github.com/mieffarohi/finaltask-dataengineer-kalbe/assets/103298951/e11c9acd-0ab1-4199-93c9-c5591f1a6f6c)
 ---
 # Task 6: Membuat skema bintang
